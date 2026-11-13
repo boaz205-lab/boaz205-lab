@@ -1,8 +1,20 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=800&color=8F00FF&center=true&width=600&lines=Hi%2C+I'm+Boaz+%F0%9F%91%8B;Let's+build+and+connect+%F0%9F%8C%B8)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=800&color=8F00FF&center=true&width=600&lines=Hi%2C+I'm+Boaz+%F0%9F%91%8B;Software+builder+%26+learner+%F0%9F%8C%B8)
+
 ## About Me
 
-> One bug at a time, learning by building
-> Every project is a chance to figure out something new.
+I’m Boaz, a curious developer who enjoys turning ideas into working projects. I like learning by building, solving real problems, and improving my craft one step at a time.
+
+I’m especially interested in:
+- web development
+- software engineering
+- automation and scripting
+- learning new tools and technologies
+
+## Current Focus
+
+- Building practical projects
+- Improving problem-solving skills
+- Exploring clean, readable, and efficient code
 
 ## Skills
 
@@ -25,12 +37,8 @@
 ![MkDocs](https://img.shields.io/badge/-MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Words to Code By
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?t       ype=horizontal&theme=radical)
-
-## Connect with Me
+## Connect
 
 [![Email](https://img.shields.io/badge/-Email-8F00FF?style=flat-square&logo=gmail&logoColor=white)](mailto:wboaz.pc@gmail.com)
 
-*(*_*)*
+> One bug at a time, learning by building.
