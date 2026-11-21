@@ -22,6 +22,7 @@ I’m especially interested in:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -36,6 +37,11 @@ I’m especially interested in:
 ![Recharts](https://img.shields.io/badge/-Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/-MkDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
+![Hydra](https://img.shields.io/badge/-Hydra-4A90D9?style=flat-square)
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Hashcat](https://img.shields.io/badge/-Hashcat-8B0000?style=flat-square)
 
 ## Connect
 
